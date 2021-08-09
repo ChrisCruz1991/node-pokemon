@@ -1,6 +1,6 @@
 # Pokemon GraphQL Server
 
-Practice project for GraphQL using a public Pokemon API
+Practice project for GraphQL (using `graphql-yoga`) using a public Pokemon API
 
 ## Instructions
 
